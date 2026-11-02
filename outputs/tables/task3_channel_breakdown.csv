@@ -1,0 +1,6 @@
+transaction_channel,n_transactions,total_spend,pct_transactions,pct_spend,group
+POS,1089518,1899348287000,58.82,58.54,Offline (POS)
+QR Payment,367682,636765582000,19.85,19.63,Digital
+E-commerce,161670,312147896000,8.73,9.62,Digital
+Mobile App,142399,246823404000,7.69,7.61,Digital
+Recurring Payment,91125,149547789000,4.92,4.61,Digital

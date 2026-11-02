@@ -1,0 +1,6 @@
+age_cohort,total_customers,total_months_recorded,avg_tx_count,avg_active_days,avg_health_score,avg_essential_ratio_pct,avg_spend_to_income_pct,avg_credit_utilization_pct
+1. <25 (Gen Z),69,631,221.6,28.4,65.94,35.49,67.6,17.27
+2. 25-34 (Young Professionals),177,2124,178.7,28.9,65.79,46.75,71.58,19.49
+3. 35-49 (Prime Working),261,3132,203.0,29.3,66.38,46.96,69.34,19.12
+4. 50-64 (Mature Working),277,2888,134.5,28.0,66.5,50.82,71.02,19.49
+5. >=65 (Senior),215,2217,139.1,28.2,66.86,50.92,68.53,19.13

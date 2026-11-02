@@ -1,0 +1,5 @@
+health_segment,total_records,percentage
+1. Healthy (>=80),475,4.32
+2. Stable (60-79),7965,72.46
+3. At-Risk (40-59),2457,22.35
+4. Financially Stressed (<40),95,0.86

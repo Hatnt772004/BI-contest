@@ -1,0 +1,14 @@
+metric,recomputed,reported,match
+Peak month,12.0,12.0,True
+Lowest month,2.0,2.0,True
+Peak vs low: spend change (%),179.89,179.89,True
+Peak vs low: transaction count change (%),187.33,187.33,True
+Peak vs low: average ticket change (%),-2.59,-2.59,True
+Stressed & Highly Engaged unique customers,59.0,59.0,True
+Highly Engaged (% consumer-months),73.99,73.99,True
+Disengaged (% consumer-months),0.44,0.44,True
+Average online spend ratio (%),21.03,21.03,True
+Digital spend share (%),41.47,41.47,True
+Offline spend share (%),58.54,58.54,True
+Healthy & Disengaged (official) unique customers,1.0,1.0,True
+Healthy-under-engaged (Bottom 20%) unique customers,75.0,75.0,True

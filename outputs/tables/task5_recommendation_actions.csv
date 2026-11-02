@@ -1,0 +1,7 @@
+action,rule,defining_metric,evidence_metric,reach_customers,reach_pct,driver_strength_on_defining_metric,driver_strength_on_evidence_metric,reach_rank,driver_strength_rank
+Financial-planning Reminders,Financial health score <= 63.40,financial_health_score,spend_to_income_ratio,250,25.025025025025027,2.3824111547709554,1.851561972229541,1,1
+Budgeting Tool,Spend-to-income ratio >= 0.7930,spend_to_income_ratio,credit_utilization_ratio,250,25.025025025025027,2.5134112551583425,1.395201935383829,1,2
+Spend Alerts,Spending volatility >= 1.7691,spending_volatility,financial_health_score,250,25.025025025025027,2.5050626720114777,0.347293594509354,1,6
+Financial Education,Essential-spend ratio >= 0.5257 AND spend-to-income >= median 0.6889,essential_spend_ratio,credit_utilization_ratio,123,12.312312312312311,0.9324753541818236,0.7569611053237262,2,4
+Digital-channel Nudges,Healthy customers in bottom 20% of engagement; cutoff = 68.00,engagement_score,online_spend_ratio,75,7.5075075075075075,0.2843451657408931,0.3896573114866008,3,5
+Product Suggestions,Health >= 69.28 AND engagement >= 79.92,financial_health_score,total_spend_vnd,62,6.206206206206207,1.3158077827534975,1.1264920637621614,4,3

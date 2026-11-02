@@ -1,0 +1,5 @@
+future_work
+"Re-run clustering on month-level (not averaged) features, or add trend features (e.g. health-score slope over the year), to catch customers whose situation is changing rather than stable."
+Cross-validate segment stability by re-fitting K-Means on a bootstrap resample of customers and checking that segment membership and sizes stay broadly consistent.
+"Feed the six Task 5 intervention target lists into the (optional) next_month_low_health_flag model, using a chronological train/validation/test split, to prioritize outreach toward customers about to cross into a lower health segment."
+"Once real (non-synthetic) data is available, re-derive every quantile-based threshold in Task 5 (Section 5.1) instead of reusing the ones calibrated on synthetic data."

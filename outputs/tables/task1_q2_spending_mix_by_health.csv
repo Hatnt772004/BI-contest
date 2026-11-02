@@ -1,0 +1,3 @@
+customer_segment,total_months_recorded,total_spend_vnd,essential_vnd,discretionary_vnd,essential_pct,discretionary_pct
+1. Financially Stressed (<40),95,33777369000,9579242000,24198127000,28.36,71.64
+2. Healthy (>=80),475,55791630000,33173771000,22617859000,59.46,40.54

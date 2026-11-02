@@ -1,0 +1,6 @@
+health_min,engagement_max,n_consumer_months,pct_of_total,is_official
+75,50,7,0.06,False
+75,55,11,0.1,False
+80,40,1,0.01,False
+80,50,1,0.01,True
+85,45,1,0.01,False
